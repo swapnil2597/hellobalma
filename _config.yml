@@ -10,6 +10,8 @@ permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
 
+remote_theme: chrisrhymes/bulma-clean-theme
+
 paginate: 5
 paginate_path: "/blog/page:num"
 
@@ -29,7 +31,7 @@ plugins:
   - kramdown
   - rouge
 
-exclude: 
+exclude:
   - Gemfile
   - clean-theme.gemspec
   - Gemfile.lock
@@ -70,7 +72,7 @@ highlighter: rouge
 footer_menu: example_footer_menu
 
 collections:
-  products: 
+  products:
     output: true
     layout: product
     image: https://via.placeholder.com/800x600
