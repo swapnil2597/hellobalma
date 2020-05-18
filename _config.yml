@@ -4,7 +4,7 @@ tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: ""
+baseurl: "hellobalma"
 url: "https://swapnil2597.github.io/hellobalma/"
 permalink: pretty
 #favicon: /path/to/favicon.png
